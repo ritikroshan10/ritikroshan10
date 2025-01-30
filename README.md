@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 💬 Ask me about **style websites**
-
 - 📫 How to reach me **ritikroshansingh1021@gamil.com**
 
 - ⚡ Fun fact **I am Funny**
